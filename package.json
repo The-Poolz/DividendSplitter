@@ -1,0 +1,32 @@
+{
+    "name": "@poolzfinance/dividend",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "The Poolz",
+    "license": "MIT",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+        "@nomicfoundation/hardhat-ethers": "^3.0.8",
+        "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+        "@nomicfoundation/hardhat-verify": "^2.0.6",
+        "@truffle/dashboard-hardhat-plugin": "^0.2.15",
+        "@typechain/ethers-v6": "^0.5.1",
+        "@typechain/hardhat": "^9.1.0",
+        "@types/mocha": "^10.0.10",
+        "hardhat": "^2.22.15",
+        "hardhat-gas-reporter": "^2.1.1",
+        "solidity-coverage": "^0.8.13",
+        "ts-node": ">=8.0.0",
+        "typechain": "^8.3.2",
+        "typescript": "^5.4.5"
+    },
+    "dependencies": {
+        "@ironblocks/firewall-consumer": "^1.0.17",
+        "@openzeppelin/contracts": "^v4.9.6"
+    }
+}
