@@ -27,6 +27,6 @@
     },
     "dependencies": {
         "@ironblocks/firewall-consumer": "^1.0.17",
-        "@openzeppelin/contracts": "^v4.9.6"
+        "@openzeppelin/contracts": "^4.9.6"
     }
 }
